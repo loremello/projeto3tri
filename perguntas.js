@@ -5,7 +5,7 @@ criaCartao(
 )
 //20 perguntas ao todo
 criaCartao(
-    'geograia',
+    'geografia',
     'o que el nino?',
     'utiliza-se a formula: aquecimento anormal nas aguas do pacifico'
 )
@@ -45,7 +45,7 @@ criaCartao(
     'utiliza-se a formula: Recibo de Depósito Bancário'
 )
 criaCartao(
-    'historia?',
+    'historia',
     'em qual ano caiu o murro de Berlin?',
     'utiliza-se a formula: 1989'
 )
@@ -76,7 +76,7 @@ criaCartao(
 )
 criaCartao(
     'biotecnologia',
-    'o que é a biottecnolia preta?',
+    'o que é a biotecnologia preta?',
     'utiliza-se a formula:bioterrorismo'
 )
 criaCartao(
@@ -90,7 +90,7 @@ criaCartao(
     'utiliza-se a formula:união das republicas socialistas sovieticas'
 )
 criaCartao(
-    'geografica',
+    'geografia',
     'qual maior rio o mundo?',
     'utiliza-se a formula:rio amazonas'
 )
