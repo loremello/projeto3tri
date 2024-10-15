@@ -33,3 +33,10 @@ footer{
     height: 20rem;
     margin: 1rem;
 }
+
+.contudo-cartao{
+    background-color: var(--cartão-frente);
+    text-align: center;
+    height: 100%;
+    color: beige;
+}
