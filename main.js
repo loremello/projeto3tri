@@ -20,6 +20,6 @@ function viraCartao(){
     cartao.classList.toggle('active',respostaEstavisivel)
 }
 
-cartao.addEventListener('click,viracartao')
+cartao.addEventListener('click,viraCartao')
 container.appendChild(cartao);
 }
